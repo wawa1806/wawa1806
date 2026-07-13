@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Lukas Estay, a Biomedical Engineer Student at Universidad de Concepción.
+I'm interested in LLMs, machine learning, data analysis, data engineering, and data science.
 
 <!--
 **wawa1806/wawa1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
