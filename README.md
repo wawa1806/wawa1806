@@ -5,14 +5,14 @@ intersection of data science and healthcare.
 
 I'm interested in LLMs, machine learning, data analysis, data engineering, and data science.
 
-🛠️ **Tools:** Python (PyTorch, HuggingFace, pandas, NumPy) · Power BI · SQL · Excel
+**Tools:** Python (PyTorch, HuggingFace, pandas, NumPy) · Power BI · SQL · Excel
 
-📌 **Featured**
+**Featured**
 - [hospital-equipment-dashboard](https://github.com/wawa1806/hospital-equipment-dashboard) —
   Power BI dashboard for a 2,000-unit medical equipment fleet, with a reproducible synthetic
   data pipeline, tests, and CI.
 
-📫 lukasestay18@gmail.com · [LinkedIn](https://www.linkedin.com/in/lukas-estay)
+lukasestay18@gmail.com · [LinkedIn](https://www.linkedin.com/in/lukas-estay)
 
 <!--
 **wawa1806/wawa1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
